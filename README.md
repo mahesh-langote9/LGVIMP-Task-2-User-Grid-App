@@ -1,12 +1,12 @@
 # User Card Grid App
-https://mahesh-langote.github.io/User-Card-Grid-App-Using-HTML-CSS-Js/
+https://mahesh-langote9.github.io/LGVIMP-Task-2-User-Grid-App/ 
 
 A simple web application that displays user cards in a grid layout fetched from the "reqres.in" API.
 
 ## Demo
 
 Include a link to the live demo
-https://mahesh-langote.github.io/User-Card-Grid-App-Using-HTML-CSS-Js/
+https://mahesh-langote9.github.io/LGVIMP-Task-2-User-Grid-App/ 
 
 ## Features
 
@@ -24,7 +24,8 @@ https://mahesh-langote.github.io/User-Card-Grid-App-Using-HTML-CSS-Js/
 ## How to Use
 
 1. **Clone the repository:**
-https://github.com/Mahesh-Langote/User-Card-Grid-App-Using-HTML-CSS-Js
+https://mahesh-langote9.github.io/LGVIMP-Task-2-User-Grid-App/ 
+
 
 3. **Open the `index.html` file in your web browser or serve it using a local server.**
 
